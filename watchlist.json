@@ -1,0 +1,13 @@
+{
+  "_comment": "Add/remove NSE trading symbols here. Exactly as they appear on nseindia.com, e.g. RELIANCE, TCS, INFY, HDFCBANK.",
+  "symbols": [
+    "RELIANCE",
+    "TCS",
+    "INFY",
+    "HDFCBANK",
+    "ICICIBANK",
+    "SBIN",
+    "ITC",
+    "TATAMOTORS"
+  ]
+}
