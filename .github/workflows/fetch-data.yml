@@ -1,4 +1,4 @@
-name: Update market data
+name: name: Update market data
 
 on:
   schedule:
@@ -35,3 +35,4 @@ jobs:
           git add data/mutual-funds.json data/stocks.json
           git diff --quiet --cached || git commit -m "chore: update market data $(date -u +%Y-%m-%d)"
           git push
+  
